@@ -1,0 +1,15 @@
+[
+    {
+        "recipe_id": 1,
+        "rating": 4.5,
+        "total_view": 40,
+        "recipe_name": "Chicken Tikka",
+        "price": 700,
+        "cook": {
+            "name": "Salt Bee",
+            "published_date": "2021-08-24"
+        },
+        "img_url": "https://glebekitchen.com/wp-content/uploads/2016/12/chickentikkakebab.jpg",
+        "recipe_details": "In a bowl, combine chicken pieces with lemon juice and salt. Rub in, cover and refrigerate for 20minutes. This step helps the meat to tenderise, resulting in juicier, chicken pieces. In another bowl, combine ginger, garlic, cumin, paprika, garam masala, cayenne and yogurt. Add in chicken pieces and mix well. Refrigerate for  minimum 4 hours but ideally overnight. To cook, preheat the grill to highest setting. Thread the meat onto wooden skewers and brush with oil.  Put the skewers on a shallow baking tray and grill for approx 6 minutes each side until browned and cooked through.Serve with rice and naan."
+    }
+]
